@@ -4,3 +4,6 @@
 [submodule "django"]
 	path = django
 	url = https://github.com/fernandoEscobar2X/django.git
+[submodule "angular"]
+	path = angular
+	url = https://github.com/fernandoEscobar2X/angular.git
