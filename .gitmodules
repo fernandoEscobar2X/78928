@@ -16,3 +16,6 @@
 [submodule "react"]
 	path = react
 	url = https://github.com/fernandoEscobar2X/react.git
+[submodule "mosquitto"]
+	path = mosquitto
+	url = https://github.com/fernandoEscobar2X/mosquitto.git
