@@ -19,3 +19,6 @@
 [submodule "mosquitto"]
 	path = mosquitto
 	url = https://github.com/fernandoEscobar2X/mosquitto.git
+[submodule "ruleta"]
+	path = ruleta
+	url = https://github.com/fernandoEscobar2X/ruleta.git
